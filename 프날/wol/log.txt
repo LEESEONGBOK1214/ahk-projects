@@ -1,0 +1,140 @@
+2022-09-01 09:35:04 - [Info]	--------------------------------------
+2022-09-01 09:35:04 - [Info]	mac : BBCCDDEEFFGG
+2022-09-01 09:35:04 - [Info]	broadcast : 192.168.219.255
+2022-09-01 09:35:04 - [Info]	magicPacket_HexString : FFFFFFFFFFFFBBCCDDEEFFGGBBCCDDEEFFGGBBCCDDEEFFGGBBCCDDEEFFGGBBCCDDEEFFGGBBCCDDEEFFGGBBCCDDEEFFGGBBCCDDEEFFGGBBCCDDEEFFGGBBCCDDEEFFGGBBCCDDEEFFGGBBCCDDEEFFGGBBCCDDEEFFGGBBCCDDEEFFGGBBCCDDEEFFGGBBCCDDEEFFGG
+2022-09-01 09:35:04 - [Info]	hexString : FFFFFFFFFFFFBBCCDDEEFFGGBBCCDDEEFFGGBBCCDDEEFFGGBBCCDDEEFFGGBBCCDDEEFFGGBBCCDDEEFFGGBBCCDDEEFFGGBBCCDDEEFFGGBBCCDDEEFFGGBBCCDDEEFFGGBBCCDDEEFFGGBBCCDDEEFFGGBBCCDDEEFFGGBBCCDDEEFFGGBBCCDDEEFFGGBBCCDDEEFFGG
+2022-09-01 09:35:04 - [Info]	size : 102
+2022-09-01 09:35:04 - [Info]	UdpOut.connect -> port : 9
+2022-09-01 09:35:04 - [Info]	UdpOut.enableBroadcast!
+2022-09-01 09:35:04 - [Info]	UdpOut.send!
+
+2022-09-01 09:35:04 - [Info]	mac : ddffgghhiijj
+2022-09-01 09:35:04 - [Info]	broadcast : 192.168.219.255
+2022-09-01 09:35:04 - [Info]	magicPacket_HexString : FFFFFFFFFFFFddffgghhiijjddffgghhiijjddffgghhiijjddffgghhiijjddffgghhiijjddffgghhiijjddffgghhiijjddffgghhiijjddffgghhiijjddffgghhiijjddffgghhiijjddffgghhiijjddffgghhiijjddffgghhiijjddffgghhiijjddffgghhiijj
+2022-09-01 09:35:04 - [Info]	hexString : FFFFFFFFFFFFddffgghhiijjddffgghhiijjddffgghhiijjddffgghhiijjddffgghhiijjddffgghhiijjddffgghhiijjddffgghhiijjddffgghhiijjddffgghhiijjddffgghhiijjddffgghhiijjddffgghhiijjddffgghhiijjddffgghhiijjddffgghhiijj
+2022-09-01 09:35:04 - [Info]	size : 102
+2022-09-01 09:35:04 - [Info]	UdpOut.connect -> port : 9
+2022-09-01 09:35:04 - [Info]	UdpOut.enableBroadcast!
+2022-09-01 09:35:04 - [Info]	UdpOut.send!
+
+2022-09-01 09:35:04 - [Info]	mac : zzkgdowpabcd
+2022-09-01 09:35:04 - [Info]	broadcast : 192.168.219.255
+2022-09-01 09:35:04 - [Info]	magicPacket_HexString : FFFFFFFFFFFFzzkgdowpabcdzzkgdowpabcdzzkgdowpabcdzzkgdowpabcdzzkgdowpabcdzzkgdowpabcdzzkgdowpabcdzzkgdowpabcdzzkgdowpabcdzzkgdowpabcdzzkgdowpabcdzzkgdowpabcdzzkgdowpabcdzzkgdowpabcdzzkgdowpabcdzzkgdowpabcd
+2022-09-01 09:35:04 - [Info]	hexString : FFFFFFFFFFFFzzkgdowpabcdzzkgdowpabcdzzkgdowpabcdzzkgdowpabcdzzkgdowpabcdzzkgdowpabcdzzkgdowpabcdzzkgdowpabcdzzkgdowpabcdzzkgdowpabcdzzkgdowpabcdzzkgdowpabcdzzkgdowpabcdzzkgdowpabcdzzkgdowpabcdzzkgdowpabcd
+2022-09-01 09:35:04 - [Info]	size : 102
+2022-09-01 09:35:04 - [Info]	UdpOut.connect -> port : 9
+2022-09-01 09:35:04 - [Info]	UdpOut.enableBroadcast!
+2022-09-01 09:35:04 - [Info]	UdpOut.send!
+
+2022-09-01 09:35:13 - [Info]	--------------------------------------
+2022-09-01 09:35:13 - [Info]	mac : BBCCDDEEFFGG
+2022-09-01 09:35:13 - [Info]	broadcast : 192.168.219.255
+2022-09-01 09:35:13 - [Info]	magicPacket_HexString : FFFFFFFFFFFFBBCCDDEEFFGGBBCCDDEEFFGGBBCCDDEEFFGGBBCCDDEEFFGGBBCCDDEEFFGGBBCCDDEEFFGGBBCCDDEEFFGGBBCCDDEEFFGGBBCCDDEEFFGGBBCCDDEEFFGGBBCCDDEEFFGGBBCCDDEEFFGGBBCCDDEEFFGGBBCCDDEEFFGGBBCCDDEEFFGGBBCCDDEEFFGG
+2022-09-01 09:35:13 - [Info]	hexString : FFFFFFFFFFFFBBCCDDEEFFGGBBCCDDEEFFGGBBCCDDEEFFGGBBCCDDEEFFGGBBCCDDEEFFGGBBCCDDEEFFGGBBCCDDEEFFGGBBCCDDEEFFGGBBCCDDEEFFGGBBCCDDEEFFGGBBCCDDEEFFGGBBCCDDEEFFGGBBCCDDEEFFGGBBCCDDEEFFGGBBCCDDEEFFGGBBCCDDEEFFGG
+2022-09-01 09:35:13 - [Info]	size : 102
+2022-09-01 09:35:13 - [Info]	UdpOut.connect -> port : 9
+2022-09-01 09:35:13 - [Info]	UdpOut.enableBroadcast!
+2022-09-01 09:35:13 - [Info]	UdpOut.send!
+
+2022-09-01 09:35:13 - [Info]	mac : ddffgghhiijj
+2022-09-01 09:35:13 - [Info]	broadcast : 192.168.219.255
+2022-09-01 09:35:13 - [Info]	magicPacket_HexString : FFFFFFFFFFFFddffgghhiijjddffgghhiijjddffgghhiijjddffgghhiijjddffgghhiijjddffgghhiijjddffgghhiijjddffgghhiijjddffgghhiijjddffgghhiijjddffgghhiijjddffgghhiijjddffgghhiijjddffgghhiijjddffgghhiijjddffgghhiijj
+2022-09-01 09:35:13 - [Info]	hexString : FFFFFFFFFFFFddffgghhiijjddffgghhiijjddffgghhiijjddffgghhiijjddffgghhiijjddffgghhiijjddffgghhiijjddffgghhiijjddffgghhiijjddffgghhiijjddffgghhiijjddffgghhiijjddffgghhiijjddffgghhiijjddffgghhiijjddffgghhiijj
+2022-09-01 09:35:13 - [Info]	size : 102
+2022-09-01 09:35:13 - [Info]	UdpOut.connect -> port : 9
+2022-09-01 09:35:13 - [Info]	UdpOut.enableBroadcast!
+2022-09-01 09:35:13 - [Info]	UdpOut.send!
+
+2022-09-01 09:35:13 - [Info]	mac : zzkgdowpabcd
+2022-09-01 09:35:13 - [Info]	broadcast : 192.168.219.255
+2022-09-01 09:35:13 - [Info]	magicPacket_HexString : FFFFFFFFFFFFzzkgdowpabcdzzkgdowpabcdzzkgdowpabcdzzkgdowpabcdzzkgdowpabcdzzkgdowpabcdzzkgdowpabcdzzkgdowpabcdzzkgdowpabcdzzkgdowpabcdzzkgdowpabcdzzkgdowpabcdzzkgdowpabcdzzkgdowpabcdzzkgdowpabcdzzkgdowpabcd
+2022-09-01 09:35:13 - [Info]	hexString : FFFFFFFFFFFFzzkgdowpabcdzzkgdowpabcdzzkgdowpabcdzzkgdowpabcdzzkgdowpabcdzzkgdowpabcdzzkgdowpabcdzzkgdowpabcdzzkgdowpabcdzzkgdowpabcdzzkgdowpabcdzzkgdowpabcdzzkgdowpabcdzzkgdowpabcdzzkgdowpabcdzzkgdowpabcd
+2022-09-01 09:35:13 - [Info]	size : 102
+2022-09-01 09:35:13 - [Info]	UdpOut.connect -> port : 9
+2022-09-01 09:35:13 - [Info]	UdpOut.enableBroadcast!
+2022-09-01 09:35:13 - [Info]	UdpOut.send!
+
+2022-09-01 09:35:19 - [Info]	--------------------------------------
+2022-09-01 09:35:19 - [Info]	mac : BBCCDDEEFFGG
+2022-09-01 09:35:19 - [Info]	broadcast : 192.168.219.255
+2022-09-01 09:35:19 - [Info]	magicPacket_HexString : FFFFFFFFFFFFBBCCDDEEFFGGBBCCDDEEFFGGBBCCDDEEFFGGBBCCDDEEFFGGBBCCDDEEFFGGBBCCDDEEFFGGBBCCDDEEFFGGBBCCDDEEFFGGBBCCDDEEFFGGBBCCDDEEFFGGBBCCDDEEFFGGBBCCDDEEFFGGBBCCDDEEFFGGBBCCDDEEFFGGBBCCDDEEFFGGBBCCDDEEFFGG
+2022-09-01 09:35:19 - [Info]	hexString : FFFFFFFFFFFFBBCCDDEEFFGGBBCCDDEEFFGGBBCCDDEEFFGGBBCCDDEEFFGGBBCCDDEEFFGGBBCCDDEEFFGGBBCCDDEEFFGGBBCCDDEEFFGGBBCCDDEEFFGGBBCCDDEEFFGGBBCCDDEEFFGGBBCCDDEEFFGGBBCCDDEEFFGGBBCCDDEEFFGGBBCCDDEEFFGGBBCCDDEEFFGG
+2022-09-01 09:35:19 - [Info]	size : 102
+2022-09-01 09:35:19 - [Info]	UdpOut.connect -> port : 9
+2022-09-01 09:35:19 - [Info]	UdpOut.enableBroadcast!
+2022-09-01 09:35:19 - [Info]	UdpOut.send!
+
+2022-09-01 09:35:19 - [Info]	mac : ddffgghhiijj
+2022-09-01 09:35:19 - [Info]	broadcast : 192.168.219.255
+2022-09-01 09:35:19 - [Info]	magicPacket_HexString : FFFFFFFFFFFFddffgghhiijjddffgghhiijjddffgghhiijjddffgghhiijjddffgghhiijjddffgghhiijjddffgghhiijjddffgghhiijjddffgghhiijjddffgghhiijjddffgghhiijjddffgghhiijjddffgghhiijjddffgghhiijjddffgghhiijjddffgghhiijj
+2022-09-01 09:35:19 - [Info]	hexString : FFFFFFFFFFFFddffgghhiijjddffgghhiijjddffgghhiijjddffgghhiijjddffgghhiijjddffgghhiijjddffgghhiijjddffgghhiijjddffgghhiijjddffgghhiijjddffgghhiijjddffgghhiijjddffgghhiijjddffgghhiijjddffgghhiijjddffgghhiijj
+2022-09-01 09:35:19 - [Info]	size : 102
+2022-09-01 09:35:19 - [Info]	UdpOut.connect -> port : 9
+2022-09-01 09:35:19 - [Info]	UdpOut.enableBroadcast!
+2022-09-01 09:35:19 - [Info]	UdpOut.send!
+
+2022-09-01 09:35:19 - [Info]	mac : zzkgdowpabcd
+2022-09-01 09:35:19 - [Info]	broadcast : 192.168.219.255
+2022-09-01 09:35:19 - [Info]	magicPacket_HexString : FFFFFFFFFFFFzzkgdowpabcdzzkgdowpabcdzzkgdowpabcdzzkgdowpabcdzzkgdowpabcdzzkgdowpabcdzzkgdowpabcdzzkgdowpabcdzzkgdowpabcdzzkgdowpabcdzzkgdowpabcdzzkgdowpabcdzzkgdowpabcdzzkgdowpabcdzzkgdowpabcdzzkgdowpabcd
+2022-09-01 09:35:19 - [Info]	hexString : FFFFFFFFFFFFzzkgdowpabcdzzkgdowpabcdzzkgdowpabcdzzkgdowpabcdzzkgdowpabcdzzkgdowpabcdzzkgdowpabcdzzkgdowpabcdzzkgdowpabcdzzkgdowpabcdzzkgdowpabcdzzkgdowpabcdzzkgdowpabcdzzkgdowpabcdzzkgdowpabcdzzkgdowpabcd
+2022-09-01 09:35:19 - [Info]	size : 102
+2022-09-01 09:35:19 - [Info]	UdpOut.connect -> port : 9
+2022-09-01 09:35:19 - [Info]	UdpOut.enableBroadcast!
+2022-09-01 09:35:19 - [Info]	UdpOut.send!
+
+2022-09-01 09:35:30 - [Info]	--------------------------------------
+2022-09-01 09:35:30 - [Info]	mac : BBCCDDEEFFGG
+2022-09-01 09:35:30 - [Info]	broadcast : 192.168.219.255
+2022-09-01 09:35:30 - [Info]	magicPacket_HexString : FFFFFFFFFFFFBBCCDDEEFFGGBBCCDDEEFFGGBBCCDDEEFFGGBBCCDDEEFFGGBBCCDDEEFFGGBBCCDDEEFFGGBBCCDDEEFFGGBBCCDDEEFFGGBBCCDDEEFFGGBBCCDDEEFFGGBBCCDDEEFFGGBBCCDDEEFFGGBBCCDDEEFFGGBBCCDDEEFFGGBBCCDDEEFFGGBBCCDDEEFFGG
+2022-09-01 09:35:30 - [Info]	hexString : FFFFFFFFFFFFBBCCDDEEFFGGBBCCDDEEFFGGBBCCDDEEFFGGBBCCDDEEFFGGBBCCDDEEFFGGBBCCDDEEFFGGBBCCDDEEFFGGBBCCDDEEFFGGBBCCDDEEFFGGBBCCDDEEFFGGBBCCDDEEFFGGBBCCDDEEFFGGBBCCDDEEFFGGBBCCDDEEFFGGBBCCDDEEFFGGBBCCDDEEFFGG
+2022-09-01 09:35:30 - [Info]	size : 102
+2022-09-01 09:35:30 - [Info]	UdpOut.connect -> port : 9
+2022-09-01 09:35:30 - [Info]	UdpOut.enableBroadcast!
+2022-09-01 09:35:30 - [Info]	UdpOut.send!
+
+2022-09-01 09:35:30 - [Info]	mac : ddffgghhiijj
+2022-09-01 09:35:30 - [Info]	broadcast : 192.168.219.255
+2022-09-01 09:35:30 - [Info]	magicPacket_HexString : FFFFFFFFFFFFddffgghhiijjddffgghhiijjddffgghhiijjddffgghhiijjddffgghhiijjddffgghhiijjddffgghhiijjddffgghhiijjddffgghhiijjddffgghhiijjddffgghhiijjddffgghhiijjddffgghhiijjddffgghhiijjddffgghhiijjddffgghhiijj
+2022-09-01 09:35:30 - [Info]	hexString : FFFFFFFFFFFFddffgghhiijjddffgghhiijjddffgghhiijjddffgghhiijjddffgghhiijjddffgghhiijjddffgghhiijjddffgghhiijjddffgghhiijjddffgghhiijjddffgghhiijjddffgghhiijjddffgghhiijjddffgghhiijjddffgghhiijjddffgghhiijj
+2022-09-01 09:35:30 - [Info]	size : 102
+2022-09-01 09:35:30 - [Info]	UdpOut.connect -> port : 9
+2022-09-01 09:35:30 - [Info]	UdpOut.enableBroadcast!
+2022-09-01 09:35:30 - [Info]	UdpOut.send!
+
+2022-09-01 09:35:30 - [Info]	mac : zzkgdowpabcd
+2022-09-01 09:35:30 - [Info]	broadcast : 192.168.219.255
+2022-09-01 09:35:30 - [Info]	magicPacket_HexString : FFFFFFFFFFFFzzkgdowpabcdzzkgdowpabcdzzkgdowpabcdzzkgdowpabcdzzkgdowpabcdzzkgdowpabcdzzkgdowpabcdzzkgdowpabcdzzkgdowpabcdzzkgdowpabcdzzkgdowpabcdzzkgdowpabcdzzkgdowpabcdzzkgdowpabcdzzkgdowpabcdzzkgdowpabcd
+2022-09-01 09:35:30 - [Info]	hexString : FFFFFFFFFFFFzzkgdowpabcdzzkgdowpabcdzzkgdowpabcdzzkgdowpabcdzzkgdowpabcdzzkgdowpabcdzzkgdowpabcdzzkgdowpabcdzzkgdowpabcdzzkgdowpabcdzzkgdowpabcdzzkgdowpabcdzzkgdowpabcdzzkgdowpabcdzzkgdowpabcdzzkgdowpabcd
+2022-09-01 09:35:30 - [Info]	size : 102
+2022-09-01 09:35:30 - [Info]	UdpOut.connect -> port : 9
+2022-09-01 09:35:30 - [Info]	UdpOut.enableBroadcast!
+2022-09-01 09:35:30 - [Info]	UdpOut.send!
+
+2022-09-01 09:35:35 - [Info]	--------------------------------------
+2022-09-01 09:35:35 - [Info]	mac : BBCCDDEEFFGG
+2022-09-01 09:35:35 - [Info]	broadcast : 192.168.219.255
+2022-09-01 09:35:35 - [Info]	magicPacket_HexString : FFFFFFFFFFFFBBCCDDEEFFGGBBCCDDEEFFGGBBCCDDEEFFGGBBCCDDEEFFGGBBCCDDEEFFGGBBCCDDEEFFGGBBCCDDEEFFGGBBCCDDEEFFGGBBCCDDEEFFGGBBCCDDEEFFGGBBCCDDEEFFGGBBCCDDEEFFGGBBCCDDEEFFGGBBCCDDEEFFGGBBCCDDEEFFGGBBCCDDEEFFGG
+2022-09-01 09:35:35 - [Info]	hexString : FFFFFFFFFFFFBBCCDDEEFFGGBBCCDDEEFFGGBBCCDDEEFFGGBBCCDDEEFFGGBBCCDDEEFFGGBBCCDDEEFFGGBBCCDDEEFFGGBBCCDDEEFFGGBBCCDDEEFFGGBBCCDDEEFFGGBBCCDDEEFFGGBBCCDDEEFFGGBBCCDDEEFFGGBBCCDDEEFFGGBBCCDDEEFFGGBBCCDDEEFFGG
+2022-09-01 09:35:35 - [Info]	size : 102
+2022-09-01 09:35:35 - [Info]	UdpOut.connect -> port : 9
+2022-09-01 09:35:35 - [Info]	UdpOut.enableBroadcast!
+2022-09-01 09:35:35 - [Info]	UdpOut.send!
+
+2022-09-01 09:35:35 - [Info]	mac : ddffgghhiijj
+2022-09-01 09:35:35 - [Info]	broadcast : 192.168.219.255
+2022-09-01 09:35:35 - [Info]	magicPacket_HexString : FFFFFFFFFFFFddffgghhiijjddffgghhiijjddffgghhiijjddffgghhiijjddffgghhiijjddffgghhiijjddffgghhiijjddffgghhiijjddffgghhiijjddffgghhiijjddffgghhiijjddffgghhiijjddffgghhiijjddffgghhiijjddffgghhiijjddffgghhiijj
+2022-09-01 09:35:35 - [Info]	hexString : FFFFFFFFFFFFddffgghhiijjddffgghhiijjddffgghhiijjddffgghhiijjddffgghhiijjddffgghhiijjddffgghhiijjddffgghhiijjddffgghhiijjddffgghhiijjddffgghhiijjddffgghhiijjddffgghhiijjddffgghhiijjddffgghhiijjddffgghhiijj
+2022-09-01 09:35:35 - [Info]	size : 102
+2022-09-01 09:35:35 - [Info]	UdpOut.connect -> port : 9
+2022-09-01 09:35:35 - [Info]	UdpOut.enableBroadcast!
+2022-09-01 09:35:35 - [Info]	UdpOut.send!
+
+2022-09-01 09:35:35 - [Info]	mac : zzkgdowpabcd
+2022-09-01 09:35:35 - [Info]	broadcast : 192.168.219.255
+2022-09-01 09:35:35 - [Info]	magicPacket_HexString : FFFFFFFFFFFFzzkgdowpabcdzzkgdowpabcdzzkgdowpabcdzzkgdowpabcdzzkgdowpabcdzzkgdowpabcdzzkgdowpabcdzzkgdowpabcdzzkgdowpabcdzzkgdowpabcdzzkgdowpabcdzzkgdowpabcdzzkgdowpabcdzzkgdowpabcdzzkgdowpabcdzzkgdowpabcd
+2022-09-01 09:35:35 - [Info]	hexString : FFFFFFFFFFFFzzkgdowpabcdzzkgdowpabcdzzkgdowpabcdzzkgdowpabcdzzkgdowpabcdzzkgdowpabcdzzkgdowpabcdzzkgdowpabcdzzkgdowpabcdzzkgdowpabcdzzkgdowpabcdzzkgdowpabcdzzkgdowpabcdzzkgdowpabcdzzkgdowpabcdzzkgdowpabcd
+2022-09-01 09:35:35 - [Info]	size : 102
+2022-09-01 09:35:35 - [Info]	UdpOut.connect -> port : 9
+2022-09-01 09:35:35 - [Info]	UdpOut.enableBroadcast!
+2022-09-01 09:35:35 - [Info]	UdpOut.send!
+
